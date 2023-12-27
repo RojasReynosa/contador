@@ -3,7 +3,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #252a2e;
+  background-color: #fff;
   color: #1cb698;
 }
 .contenedor {
@@ -14,4 +14,13 @@ body {
   border-color: #1e2326;
   border-radius: 7px;
   padding: 20px;
+}
+.contenedor-botones {
+  float: right;
+  background-color: #18936f;
+  border: none;
+  padding: 10px;
+  color: #fff;
+  margin-top: 15px;
+  cursor: pointer;
 }
